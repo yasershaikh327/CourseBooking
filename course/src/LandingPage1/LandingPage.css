@@ -1,0 +1,147 @@
+svg#sparkle {
+    /* display: flow-root; */
+    /* justify-content: space-between; */
+    position: relative;
+    left: 8%;
+    top: 50px;
+}
+
+h4{
+    font-family: Public Sans;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0.002em;
+    text-align: center;
+    color: #20B486;
+}
+
+h4 {
+    font-family: Public Sans;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0.002em;
+    /* text-align: center; */
+    color: #20B486;
+    text-align: left;
+    position: relative;
+    top: 4rem;
+    left: 12%;
+}
+
+h5 {
+    font-family: Public Sans;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 72px;
+    text-align: left;
+}
+
+div#bigmsg {
+    width: 43%;
+    position: relative;
+    left: 12%;
+    top: -28px;
+}
+
+svg#smallline {
+    position: relative;
+    left: 7rem;
+    top: -10rem;
+}
+
+svg#bigline {
+    position: absolute;
+    left: 30%;
+    top: 64px;
+}
+
+span.fivek{
+    font-family: Public Sans;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 72px;
+    text-align: left;
+    font-style: normal;
+    color: #20B486;
+}
+
+svg#purpledot {
+    position: relative;
+    left: 34rem;
+}
+
+svg#purpledot1 {
+    position: relative;
+    left: 24rem;
+    top: -29rem;
+}
+
+html::-webkit-scrollbar{
+    display: none;
+}
+
+html{
+    overflow-x: hidden;
+    background-color: #f5f5f0;
+}
+
+svg#Yellowspark {
+    position: relative;
+    top: -52rem;
+    left: 48rem;
+}
+
+svg#temp1 {
+    position: relative;
+    left: 48rem;
+    top: -25rem;
+}
+
+svg#temp2 {
+    position: relative;
+    left: 45rem;
+    top: -25rem;
+}
+
+svg#Zipzag {
+    position: relative;
+    top: -41rem;
+    left: 43rem;
+    z-index: -1;
+}
+
+svg#Rating {
+    position: relative;
+    top: -25rem;
+    left: 27rem;
+}
+
+h4#text1 {
+    font-family: Public Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: #000000;
+    position: relative;
+    top: -37rem;
+}
+
+input[type="text"] {
+    font-size: 1.5rem;
+    width: 40%;
+    height: 3rem;
+    padding: 0.5rem;
+    box-sizing: border-box;
+    top: -36rem;
+    position: relative;
+    left: 12rem;
+}
+
+svg#search {
+    position: relative;
+    bottom: 35.7rem;
+    left: 7rem;
+}

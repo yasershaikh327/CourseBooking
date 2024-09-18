@@ -1,0 +1,56 @@
+
+
+h5#catlbl4 {
+    position: relative;
+    top: -41rem;
+    left: 20%;
+    font-family: Public Sans;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48px;
+    text-align: left;
+}
+
+h6#catlblmsg4 {
+    position: relative;
+    left: 19rem;
+    top: -44rem;
+    color: #6D737A;
+    font-family: Public Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+}
+
+span#text2{
+    font-family: Public Sans;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48px;
+    text-align: left;
+    color:#20B486;
+    font-style: normal;
+}
+
+svg#bigline3 {
+    position: absolute;
+    left: 27%;
+    top: 90rem;
+}
+
+div#page4 {
+    background-color: white;
+    position: relative;
+    top: -6rem;
+    height: 130vh;
+    width: 100%;
+    float: left;
+}
+
+
+svg#Instructor {
+    position: relative;
+    top: -19rem;
+    left: 13rem;
+}

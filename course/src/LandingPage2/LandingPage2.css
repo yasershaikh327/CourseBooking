@@ -1,0 +1,72 @@
+div#page2 {
+   background-color: #E9F8F3B2;
+    position: relative;
+    top: -26rem;
+    height: 130vh;
+    width: 100%;
+    float: left;
+}
+
+h4#text2 {
+    font-family: Public Sans;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 72px;
+    /* text-align: left; */
+    position: relative;
+    left: -8rem;
+}
+
+span#mst{
+        font-family: Public Sans;
+        font-size: 56px;
+        font-weight: 600;
+        line-height: 72px;
+        text-align: left;
+        font-style: normal;
+        color: black;
+}
+
+div#msg1 {
+    width: 22%;
+    position: relative;
+    left: 52vh;
+}
+
+
+svg#bigline2 {
+    position: absolute;
+    left: 18%;
+    top: 17rem;
+}
+
+svg#card1 {
+    position: relative;
+    top: -23rem;
+    left: 27rem;
+}
+
+svg#card2 {
+    position: relative;
+    top: -23rem;
+    left: 18rem;
+}
+
+svg#card3 {
+    position: relative;
+    top: -23rem;
+    left: 9rem;
+}
+
+svg#card4 {
+    position: relative;
+    top: -23rem;
+    left: 0rem;
+}
+
+svg#Scrolbr {
+    position: relative;
+    left: 51%;
+    top: -32rem;
+    width: 33%;
+}
